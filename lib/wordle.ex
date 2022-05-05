@@ -1,0 +1,2 @@
+defmodule Wordle do
+end
